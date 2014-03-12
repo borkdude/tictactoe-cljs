@@ -1,0 +1,15 @@
+/doc
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+[#]*[#]
+/resources/public/out
+/resources/public/bower_components
+/resources/public/main.js
+/node_modules
